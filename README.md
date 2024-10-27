@@ -12,9 +12,17 @@ I am Vaishnavi Srivastava, a Data Science and Machine Learning enthusiast passio
 Feel free to explore my projects and connect with me!
 
 ## Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaishnaviSrivastava033)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-srivastava-11ba80264/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@vaishnavisrivastava?utm_source=user-menu)
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaishnavi-srivastava-11ba80264/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://substack.com/@vaishnavisrivastava?utm_source=user-menu" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/substack.png" width="40" height="40" alt="Substack" />
+  </a>
+  <a href="https://github.com/VaishnaviSrivastava033" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+</p>
 
 ## Languages and Tools:
 
