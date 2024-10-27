@@ -16,9 +16,6 @@ Feel free to explore my projects and connect with me!
   <a href="https://www.linkedin.com/in/vaishnavi-srivastava-11ba80264/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://substack.com/@vaishnavisrivastava?utm_source=user-menu" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/substack.png" width="40" height="40" alt="Substack" />
-  </a>
   <a href="https://github.com/VaishnaviSrivastava033" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   </a>
