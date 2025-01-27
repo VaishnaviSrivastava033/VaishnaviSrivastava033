@@ -2,10 +2,9 @@
 
 I am Vaishnavi Srivastava, a Data Science and Machine Learning enthusiast passionate about Deep Learning and Natural Language Processing.
 
-- 🔭 I’m currently working on [TTS Model](https://github.com/VaishnaviSrivastava033/TTSProject)
+- 🔭 I’m currently working on [Mental Health Chatbot](https://github.com/VaishnaviSrivastava033/Mental-Health-Chatbot)
 - 🌱 I’m currently learning Data Structures, Algorithms, and Object-Oriented Programming with Java.
-- 👯 I want to collaborate on open-source projects, especially in machine learning.
-- 💬 Ask me about Machine Learning.
+- 👯 I want to collaborate on open-source projects, especially in machine learning and GenAI.
 - 📫 How to reach me: vaishnavisrivastav548@gmail.com
 - ⚡ Fun fact: I love public speaking and indulging in debates!
 
