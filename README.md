@@ -2,10 +2,10 @@
 
 I am Vaishnavi Srivastava, a Data Science and Machine Learning enthusiast passionate about Deep Learning and Natural Language Processing.
 
-- 🔭 I’m currently working on [Mental Health Chatbot](https://github.com/VaishnaviSrivastava033/Mental-Health-Chatbot)
+- 🔭 I’m currently working on [MBCN AI](https://github.com/VaishnaviSrivastava033/MBCN-AI)
 - 🌱 I’m currently learning Data Structures, Algorithms, and Object-Oriented Programming with Java.
 - 👯 I want to collaborate on open-source projects, especially in machine learning and GenAI.
-- 📫 How to reach me: vaishnavisrivastav548@gmail.com
+- 📫 How to reach me: vaishnavisrivastav033@gmail.com
 - ⚡ Fun fact: I love public speaking and indulging in debates!
 
 Feel free to explore my projects and connect with me!
@@ -40,8 +40,7 @@ Feel free to explore my projects and connect with me!
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /></a>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
 </div>
 
 
