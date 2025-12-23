@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Vaishnavi Srivastava, a Data Science and Machine Learning enthusiast passionate about Deep Learning and Natural Language Processing.
+I am Vaishnavi Srivastava, a AI and Machine Learning enthusiast passionate about Deep Learning and Natural Language Processing.
 
 - 🔭 I’m currently working on [MBCN AI](https://github.com/VaishnaviSrivastava033/MBCN-AI)
 - 🌱 I’m currently learning Data Structures, Algorithms, and Object-Oriented Programming with Java.
