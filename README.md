@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Vaishnavi Srivastava, a AI and Machine Learning enthusiast passionate about Deep Learning and Natural Language Processing.
+I am Vaishnavi Srivastava, an AI and Machine Learning enthusiast passionate about Deep Learning and Natural Language Processing.
 
 - 🌱 I’m currently learning Data Structures, Algorithms, and Object-Oriented Programming with Java.
 - 👯 I want to collaborate on open-source projects, especially in machine learning and GenAI.
